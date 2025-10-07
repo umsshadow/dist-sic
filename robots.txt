@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /private/
+Disallow: /admin/
+
+Sitemap: https://si-congolais.com/sitemap.xml
